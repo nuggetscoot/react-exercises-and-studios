@@ -7,5 +7,7 @@ export default defineConfig(() => {
       outDir: 'build',
     },
     plugins: [react()],
+    main: 'src/main.jsx',
+
   };
 });
