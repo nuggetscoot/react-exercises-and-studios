@@ -1,11 +1,11 @@
 export default function HobbyIntroduction () {
    return(
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Collecting</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>Kpop albums used to have to be bought online from Korea, but within the past few years retailers such as Target and Walmart have started carrying them.</li>
+            <li>Albums usually come with random inclusions such as a random photocard.</li>
+            <li>These photocards can range anywhere from a couple of dollars to hundreds of dollars depending on how rare it is.</li>
          </ol>
       </div>
    );
