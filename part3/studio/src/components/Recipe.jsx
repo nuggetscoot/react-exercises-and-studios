@@ -1,9 +1,9 @@
 import { useState } from 'react';
 
 const RecipeAuthor = () => {
-   let authorLink = "";
-   let authorPhoto = "";
-   let authorName = "";
+   let authorLink = "https://handletheheat.com/about-me/";
+   let authorPhoto = "https://handletheheat.com/wp-content/uploads/2020/02/About-Tessa-Arias-of-Handle-the-Heat.jpg";
+   let authorName = "Tessa Arias";
 
    return (
       <div>
